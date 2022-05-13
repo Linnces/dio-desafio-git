@@ -1,0 +1,134 @@
+O que é logica?
+Coerência de raciocínio. 10>9 9<10.
+Melhor sequencia de ações(Algoritmo) para solucionar um problema.
+Metacognição.
+50+50 = 100*0,8 = 80
+Abstração.
+Divisão de todo em partes. 
+Criando um mapa mental 
+
+**5+7+10+3/4= 
+
+25/4**
+
+
+Algoritmo, PseudoCodigo.
+Sequencia de passos para resolver um problema.
+
+Acões.
+
+Inicio-Dia
+
+Acordei
+Levantei da Cama 
+Troquei de roupa
+Escovei os dentes
+Fui a padaria
+Tomei Café 
+Escovei os dentes 
+Fui ao trabalho.
+...
+
+Fim-Dia
+
+Inicio-Dia
+
+
+https://studio.code.org/s/mc/lessons/1/levels/11?lang=pt-BR
+
+O que é um pseudo-codigo. 
+
+			
+		Ovelha 
+
+Take Sheep
+Move Boat
+Leave Sheep
+Move Boat
+Take Wolf
+Move Boat
+Leave Wolf
+Take Sheep
+Move Boat
+Leave Sheep
+Take Repolho
+Move Boat
+Leave Repolho 
+Move Boat 
+Take Sheep
+Move Boat
+Leave Sheep.
+
+
+		 Pinguim
+Filhote - Fihote * Up
+Atravessa
+Filhote Down
+Atravessa
+Filhote* Down
+Pai Up
+Atavesssa
+Pai Down
+Filhote Up
+Atravesa
+Filhote * Up
+Atravessa
+Filhote Down
+Atravessa
+Pai * Up
+Atravessa
+Pai * Down
+Atravessa
+Filhote ** Up
+Atravessa
+Filhote* Down
+Atravessa 
+Pai** Up
+Atravessa
+Pai** Down
+Filhote** Down
+
+Fluxograma, variaveis e tipo de dados
+
+ Inicio -> Entrada -> Processamento -> Saida -> Fim.
+
+Blocos com formatos diferentes. (sem padrão para desenhos)
+Numerica, Caracter, Alfanumerico, Logica.
+
+
+Expressões Aritméticas
+Soma +
+Subtração - 
+Multiplicação *
+Divisão / 
+Potenciação ^
+Porcentagem %
+
+Expressões Literais
+
+Nome = "José da Silva"
+nome
+media = (nota1+nota2+nota3+nota4)/4
+
+A = 2
+B = A+3
+C = A+B
+
+
+Operadores Relacionais
+>  Maior
+>= Maior ou igual
+<  Menor que 
+<= Menor ou Igual
+== Igual
+!= Diferente de 
+
+
+Tomada de decisão
+
+
+Concatenação 
+Unir duas Strings (Sequencia de caracteres)
+
+
+

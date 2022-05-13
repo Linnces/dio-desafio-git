@@ -1,0 +1,226 @@
+Pensamento computacional.
+
+Expressão de soluções em passos computacionais ou algoritimos que podem
+ser usados pelo algoritimo
+
+Fomurlação e resolução de problemas
+Sistemático e eficiente
+
+Habilidade Generalista  ---- Escrita, Leitura, Matemática
+
+Decomposição
+      ↓
+Reconhecimento   (similaridades e diferenças entre os problemas)
+de padrões
+      ↓
+Abstração    (Extrapolar o conceito do problema para uma forma generalista)
+      ↓			
+Desing de    (Automatizar, definir passo a passo a solução do problema)_
+Algoritmos
+
+
+Dividir um problema complexo dem subproblemas
+
+Overview
+
+Processo contínuo --- refinamento - teste - analise
+
+Definir uma solução
+Testar a solução
+Aperfeiçoamento da solução encontrada
+
+1- Resolução de problemas
+2- Expressão de solução
+3- Execução da solução e avaliação
+
+
+
+			Raciocinio Logico
+ 		      ↙  		  ↘ 
+	      Refinamento	      Decomposição
+		      ↑ 		   ↓
+	          Algoritmos   	       Padrões
+			↖		   ↙
+			     Abstração
+
+Raciocínio lógico: é uma forma de pensamento estruturado.
+
+                  Indução (Leis e Teorias) (Ciências Experiementais)
+ Classificação -> Dedução (Previsões e explicações) (Ciências Exatas)
+		  Abdução (Conclusão) ---> Premissa (Processo investigativo) (Diagnóstico)	
+
+ 			Inferência
+
+	Sintética                     Analítica
+Abdução        Indução		      Dedução	
+
+
+
+
+Aperfeiçoamento
+
+Presente em todas as etaps
+
+
+
+---------------------------------------------------------------------------
+Decomposição
+
+Estratégia:   Análise (quebrar e determinar partes menores e gerenciaveis.
+	      Sintese (combinar os elementos recompondo o problema original.
+	      Ordem de execução de tarefas menores: Senquencia (fila),Paralelo
+Variáveis 
+Pequenos problemas
+Segmentação
+
+Não basta aplicar
+Desenvlver  by yourself
+
+Componentes  e caracteristicas, dependencias 
+
+Identificar ou coletar dados,. agregar os dados, Funcionalidades.
+
+Finalidade 
+Interface
+Funcionalidades
+Pré Requisitos
+
+O que será abordado
+Estrutura
+Conteudo de cada topico
+Textos de conexão
+
+
+----------------------------------------------
+				Padrões
+Modelo Base
+Estrutura invariante
+Repetição
+
+
+Compreensão
+ 
+---//,**,
+3-2/,2*,
+
+Generalizar, com objetivo de obter resoluções diferentes de problemas.
+Classificação de objetos
+Categoria - Classes
+Dependem do domínio
+Tipo de meedia
+
+
+Grau de similaridade
+Grupos conhecidos x objetivo desconhecido
+Comparação
+Aprendizado   conceito associado ao objeto
+Armazenar dados
+Regras de decisão
+
+Extração  de caracteristacas - abordagem
+Classificação de dados
+
+
+Metodos  --- Aplicações
+
+Classificação de dados
+Reconhecimento de imagem
+Reconhecimento de fala
+Analise de cenas
+Classificação de dados
+
+Machine learning
+Redes neurais 
+Inteligencia Artificial
+Ciencia de dados
+
+--------------------------------------------------------
+Abstração/ generalização
+
+Oberservar diferentes elementos e avaliar características de forma individual
+
+Processo intelectual de isolamento de um objeto da realidade
+Generzalizar torna-se geral, mais amplo, extensão
+
+Generalização é a operação intelectual que consiste em reunir
+numa classe geral, um conjunto de seres ou fenômenos similares.
+
+Como classificar dados?
+
+Características
+Pontos essencias
+Generalizar x detalhar
+
+Representação de dados
+
+Caracteríticas 
+
+Pontos essencias        Detalhes
+
+Merge sort
+Clusteting
+Busca bniaria
+
+Arvore Lista Grafo
+Linguagens de progamção
+
+Arquieteturas 
+
+
+----------------------------------------------------------
+Algoritimos
+
+
+Energia
+Trabalhador
+Eficiencia 
+Rapidez
+
+Processamento de dados
+
+Processo ed resolução ed problemas step by step utilizando
+instruções
+
+Desenvolvimento do progama
+
+Analise -> estudo e definição dos dados de entrada e saída
+Algoritmo -> Descrever o problema por meio de ferramentas
+narrativas, fluxograma ou pseudocódigo
+Codificação -> O algoritimo é codificado a partir de uma 
+linguagem de progamação escolhida
+
+
+Sequencia de passos com objetivo definido
+Execução de tarefas específicas 
+Cojunto de operações que resultam em uma sucessão finita 
+de ações
+
+
+Como construir um algoritimo?
+
+Compreensão do problema
+Definição dados de entrada
+Definir processamento (cálculos e restrições)
+Definir dados de sáida 
+Utlizar metodo de construção
+Teste e diagnóstico ( construção e refinamento do algoritimo)
+
+
+Narrativa (utilização da linguagem natural)  
+Fluxograma (utilização de símbolos pré-definidos)
+Pseudocogido (portugol)
+ 
+---------------------------------------------------------
+
+Estudo de caso 1
+
+Perdido na floresta
+
+Idefenticar mecanismos
+Recursos comuns
+Detalhes mais importantE
+
+
+Sobrevivencia = Agua, comida, abrigo
+
+
